@@ -13,13 +13,16 @@ body{
     margin: 0;
     font-family: 'Gochi Hand', cursive;
     align-items: center;
+    border-bottom: 9px dashed #654321;
 }
 
 .logo{
     font-size: 50px;
-    color: #C23B22;
+    color: #654321;
     padding: 16px;
 }
+
+/* #C23B22; */
 
 .links{
     margin: 0;
@@ -42,5 +45,5 @@ li{
 
 a{
     text-decoration: none;
-    color: #C23B22;
+    color: #654321
 }
