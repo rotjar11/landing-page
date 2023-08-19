@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background: #FDFD96;
+    height: 70px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 35px;
+    margin: 0;
+    align-items: center;
+    font-family: 'Gochi Hand', cursive;
+    align-items: center;
+}
+
+.logo{
+    font-size: 32px;
+    color: #C23B22;
+    padding: 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 40px;
+}
+
+li{
+    float: left;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #C23B22;
+}
